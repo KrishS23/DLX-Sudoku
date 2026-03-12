@@ -1,3 +1,4 @@
-solver
+sudoku_server
 *.out
 *.exe
+.DS_Store
